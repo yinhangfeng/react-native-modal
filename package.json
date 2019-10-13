@@ -1,0 +1,24 @@
+{
+  "name": "react-native-modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinhangfeng/react-native-modal.git"
+  },
+  "keywords": [
+    "react-native-modal",
+    "react-native",
+    "modal"
+  ],
+  "author": "yinhangfeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yinhangfeng/react-native-modal/issues"
+  },
+  "homepage": "https://github.com/yinhangfeng/react-native-modal#readme"
+}
